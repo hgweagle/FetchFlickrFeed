@@ -80,7 +80,7 @@ class FlickrFeedsOp2 extends React.Component {
     return (
       <div>
         <div style={{ fontWeight: "bold" }}>
-          CORS restriction is avoided through fetch-jsonp package.
+          CORS restriction is avoided by using fetch-jsonp package.
         </div>
         <input
           type="text"

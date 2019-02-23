@@ -74,7 +74,7 @@ class FlickrFeedsOp1 extends React.Component {
     return (
       <div>
         <div style={{ fontWeight: "bold" }}>
-          CORS restriction is disabled by Chrome Extension.
+          CORS restriction needs to be disabled by Chrome Extension.
         </div>
         <input
           type="text"
